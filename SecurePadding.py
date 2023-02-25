@@ -17,6 +17,7 @@ while "}" not in flag:
       print(flag)
       break
 
+# FLAG ==> CCIT{r3m3mb3r_th3_3cb_p3ngu1n?}
 
 """
 
